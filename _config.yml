@@ -2,6 +2,7 @@
 title: Alec G. Moore
 email: alec@utdallas.edu
 
+
 permalink: pretty
 
 quote: > # this means to ignore newlines until "baseurl:"
@@ -13,7 +14,7 @@ about_author_snippet: >
   Alec Moore is a graduate student researcher at the University of Texas at Dallas. He received his B.S. in Physics and B.S. in Computer Science at UT-Dallas in May 2014, and will complete his M.S. in Computer Science December 2015.
 
 about_author_snippet_for_posts: >
-  Expressed opinions do not represent those of any empoloyers.
+  Expressed opinions do not represent those of any employers.
 
 # Social
 twitter_username: tapiralec
@@ -23,4 +24,4 @@ scholar_citationname: Alec G. Moore
 linkedin_username: alecgmoore
 
 # Build settings
-markdown: kramdown
+markdown: redcarpet
