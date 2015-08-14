@@ -3,6 +3,7 @@ layout: post
 title:  "Wedge: A Musical Interface for Building and Playing Composition-Appropriate Immersive Environments"
 date:   2015-08-13 21:58:39
 categories: Research VR
+tags: Research VR Virtual Reality Computer Science Music Technology Arts
 ---
 We present Wedge - a novel musical interface designed for building an immersive environment of notes that is appropriate for the musician and the composition being played. The interface uses two simple gestures for building and playing composition appropriate immersive environments. A horizontal-finger gesture allows users to place note "wedges" from a virtual keyboard and to move them between snapping grids with their own local coordinate systems. A vertical-finger gesture allows users to play the notes and chords by striking the wedges like strings, with the velocity determining the volume of the sounds.
 

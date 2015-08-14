@@ -31,7 +31,7 @@ layout: default
               <span class="mdl-post_date">
                 {{ post.date | date: "%d %b %Y" }}
               </span class="mdl-post_date">
-          </li>
+            <br/><br/></li> <!-- it might look uglier, but it should fix newline issues between dates and stuff.. -->
           {% endfor %}
         </ul>
       </div>

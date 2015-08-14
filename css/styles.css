@@ -363,6 +363,7 @@ code {
 
 .mdl-post_date{
   float: right;
+  display: block;
 }
 
 .fluidMedia {
