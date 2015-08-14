@@ -5,20 +5,22 @@ email: alec@utdallas.edu
 permalink: pretty
 
 quote: > # this means to ignore newlines until "baseurl:"
-  Bacon ipsum dolor amet meatball cupim tenderloin
+  If experimenters have free will, then so do elementary particles. -John H. Conway
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://tapiralec.github.io" # the base hostname & protocol for your site
 
 about_author_snippet: >
-  Bacon ipsum dolor amet meatball cupim tenderloin frankfurter ham hock pork loin chuck kevin ham shankle capicola. Chuck prosciutto venison drumstick cow fatback picanha pig swine corned beef hamburger sirloin. Prosciutto fatback doner swine corned beef leberkas. Pancetta swine beef pastrami ground round spare ribs jerky bresaola brisket. Venison shank pork belly bresaola fatback. Sausage tenderloin tongue fatback ham hock spare ribs pork loin pork belly shoulder short loin corned beef ground round.
+  Alec Moore is a graduate student researcher at the University of Texas at Dallas. He received his B.S. in Physics and B.S. in Computer Science at UT-Dallas in May 2014, and will complete his M.S. in Computer Science December 2015.
 
 about_author_snippet_for_posts: >
-  Bacon ipsum dolor amet meatball cupim tenderloin frankfurter ham hock pork loin chuck kevin ham shankle capicola.
+  Expressed opinions do not represent those of any empoloyers.
 
 # Social
 twitter_username: tapiralec
 github_username:  tapiralec
-linkedin_username: alec-moore
+scholar_username: Xnrf710AAAAJ
+scholar_citationname: Alec G. Moore
+linkedin_username: alecgmoore
 
 # Build settings
 markdown: kramdown
