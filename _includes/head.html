@@ -8,11 +8,12 @@
     <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 
     <!-- Material Design Lite -->
-    <!--<link rel="stylesheet" href="{{ site.baseurl | prepend: site.url }}/css/syntax.css">-->
-    <!--<link rel="stylesheet" href="{{ site.baseurl | prepend: site.url }}/css/styles.css">-->
-    <link href="favicon.png.ico" type="image/png" rel="shortcut icon">
-    <link href="/css/styles.css" rel="stylesheet">
-    <link href="/css/syntax.css" rel="stylesheet">
+    <link rel="stylesheet" href="{{ site.baseurl | prepend: site.url }}/css/syntax.css">
+    <link rel="stylesheet" href="{{ site.baseurl | prepend: site.url }}/css/styles.css">
+    <link rel="shortcut icon" href="{{ site.baseurl | prepend: site.url }}/favicon.png.ico" type="image/png">
+    <!--<link href="favicon.png.ico" type="image/png" rel="shortcut icon">-->
+    <!--<link href="/css/styles.css" rel="stylesheet">-->
+    <!--<link href="/css/syntax.css" rel="stylesheet">-->
     <link rel="stylesheet" href="{{ site.baseurl | prepend: site.url }}/css/material.teal-deep_purple.min.css">
     <link href='//fonts.googleapis.com/css?family=Roboto:regular,bold,italic,thin,light,bolditalic,black,medium&amp;lang=en' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
