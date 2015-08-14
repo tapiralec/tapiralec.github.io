@@ -38,8 +38,8 @@ html, body {
 .mdl-jekyll .mdl-layout.is-small-screen .mdl-layout__tab-bar .mdl-button {
   display: none;
 }
-.mdl-jekyll .mdl-layout:not(.is-small-screen) .mdl-layout__tab-bar,
-.mdl-jekyll .mdl-layout:not(.is-small-screen) .mdl-layout__tab-bar-container {
+.mdl-jekyll .mdl-layout__tab-bar,
+.mdl-jekyll .mdl-layout__tab-bar-container {
   overflow: visible;
 }
 .mdl-jekyll .mdl-layout__tab-bar-container {
@@ -57,6 +57,40 @@ html, body {
   line-height: 64px;
 }
 
+.mdl-jekyll .mdl-layout__tab-bar .mdl-layout__tab_search {
+  height: 64px;
+  line-height: 64px;
+  float:none;
+  -webkit-box-flex:1;
+  -webkit-flex-grow:1;
+  -ms-flex-positive:1;
+  flex-grow:1;
+  padding:0;
+  margin:0;
+  border:none;
+  padding:0 24px;
+  float:left;
+  flex-grow:0;
+  flex-shrink:0;
+  float:right;
+  position:relative;
+  display:block;
+  -webkit-box-flex:0;
+  -webkit-flex-grow:0;
+  -ms-flex-positive:0;
+  flex-grow:0;
+  -webkit-flex-shrink:0;
+  -ms-flex-negative:0;
+  flex-shrink:0;
+  text-decoration:none;
+  text-align:center;
+  font-weight:500;
+  font-size:14px;
+  text-transform:uppercase;
+  color:rgba(255,255,255, .6);
+  overflow:hidden
+}
+
 .mdl-jekyll .mdl-layout__tab-bar .mdl-layout__tab_fixed {
   height: 64px;
   line-height: 64px;
@@ -69,6 +103,9 @@ html, body {
   margin:0;
   border:none;
   padding:0 24px;
+  float:right;
+  flex-grow:0;
+  flex-shrink:0;
   float:left;
   position:relative;
   display:block;
