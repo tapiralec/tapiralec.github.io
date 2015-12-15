@@ -471,3 +471,10 @@ code {
     padding-left: 0px;
     border: none;
 }
+
+.stickyFooter {
+    position:fixed;
+    bottom:0;
+    left:0;
+    width:100%
+}
