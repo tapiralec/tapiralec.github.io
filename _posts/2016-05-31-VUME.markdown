@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "VUME: The Voluntary-Use Methodology for Evaluations"
+date:   2016-05-31 14:32:00
+categories: Research VR
+tags: Research VR Virtual Reality Computer Science Technology Vision HMD User Interfaces head-mounted head mounted display 3D 3DUI
+---
+In an attempt to better understand how controlled research results impact actual voluntary use of 3D user interfaces (3D Uls), we developed a new evaluation approach. Using this approach, we conducted two studies evaluating two head-mounted displays (HMDs) - a Sensics zSight and an Oculus Rift Development Kit 1 (DK1). The results of the first study indicate that the DK1 affords significantly better user performances. In the second study, we used a between-subjects design to determine if participants would voluntarily explore and interact with a virtual environment more with the DK1 than the zSight. We did not find a significant difference between the two HMDs, but statistically proved that the HMDs were equivalent. This indicates that results found in controlled evaluations do not always play a significant role in the voluntary use of a 3D UI.
+
+
+[Check out the paper][VUME-paper] for more info!
+
+[VUME-paper]: http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7460042
