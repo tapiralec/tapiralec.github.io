@@ -24,4 +24,4 @@ scholar_citationname: Alec G. Moore
 linkedin_username: alecgmoore
 
 # Build settings
-markdown: redcarpet
+markdown: kramdown
