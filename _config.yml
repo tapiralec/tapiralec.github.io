@@ -11,7 +11,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://tapiralec.github.io" # the base hostname & protocol for your site
 
 about_author_snippet: >
-  Alec Moore is a graduate student researcher at the University of Texas at Dallas. He received his M.S. in Computer Science in May 2016, as well as his B.S. in Physics and B.S. in Computer Science at UT-Dallas in May 2014.
+  Alec Moore is a Ph.D. Candidate at The University of Central Florida. He received his M.S. in Computer Science in May 2016, as well as his B.S. in Physics and B.S. in Computer Science at The University of Texas at Dallas in May 2014.
 
 about_author_snippet_for_posts: >
   Expressed opinions do not represent those of any employers.
