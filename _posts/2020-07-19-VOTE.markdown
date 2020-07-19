@@ -1,0 +1,12 @@
+---
+layout: post
+title: "VOTE: A Ray-casting Study of Vote Oriented Technique Enhancements"
+date: 2020-07-19 18:09:30
+categories: Research VR
+tags: Research VR Virtual Reality Computer Science Interaction Enhancement Selection
+---
+When making selections within 3D user interfaces (3DUIs), a user can fail to select a desired target despite indicating that target during most of the interaction process. This is due to numerous factors that can negatively impact which object is being indicated during the final confirmation step. In this paper, we present a novel vote-oriented technique enhancement (VOTE) for 3D selection that votes for indicated object each interaction frame and then selects the object with the most votes during confirmation. VOTE can be applied to nearly any 3D selection technique, as it does not require additional user input and does not require any prior knowledge of the environment or task. To demonstrate the effectiveness of VOTE, we present a ray-casting selection study that compared traditional, Snap-To, and VOTE ray-casting techniques for a standard multidirectional selection task. The results of our study show that VOTE afforded faster selections than traditional ray-casting and resulted in fewer incorrect selections than the Snap-To enhancement. Additionally, VOTE yielded significantly better effective throughput than traditional ray-casting and the Snap-To enhancement for selections within clustered environments.
+
+[Check out the paper][vote-paper] for more info!
+
+[vote-paper]: https://www.sciencedirect.com/science/article/abs/pii/S107158191830377X
