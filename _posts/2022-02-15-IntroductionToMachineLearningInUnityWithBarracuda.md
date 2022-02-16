@@ -3,7 +3,7 @@ layout: post
 title: "Introduction to Machine Learning in Unity with Barracuda"
 date: 2022-02-15 18:54:00
 categories: Tutorials Unity
-tags:Tutorial Unity Machine-Learning Input
+tags: Tutorial Unity Machine-Learning Input
 ---
 
 Since I couldn't find a lot of information on the web on how to get started with Barracuda in Unity, I thought I would go ahead and make a tutorial that covers the basics of getting started with the hopes that people could use it as a quick start guide before getting into more in-depth models.
